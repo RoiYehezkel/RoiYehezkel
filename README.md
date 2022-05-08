@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="300"/>
 </div>
 
-<h1>
+<h1 align="center">
   Hey there my name is Roi Yehezkel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
