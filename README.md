@@ -37,8 +37,6 @@
  
 ## Connect with me:
 <p align="left">
- 
 <a href = "https://www.linkedin.com/in/roi-yehezkel-b97056231/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- 
 </p>
 
