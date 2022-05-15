@@ -3,8 +3,7 @@
 </div>
 Hey there my name is Roi Yehezkel
 <h1 align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+There+my+name+is+Roi+Yehezkel;Second+line+of+text)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+There+my+name+is+Roi+Yehezkel)](https://git.io/typing-svg)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h3 align="center">I'm a passionate computer science student and this is my page.</h3>
