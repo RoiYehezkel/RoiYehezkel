@@ -1,15 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="300"/>
 </div>
-
+Hey there my name is Roi Yehezkel
 <h1 align="center">
-  Hey there my name is Roi Yehezkel
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+There+my+name+is+Roi+Yehezkel;Second+line+of+text)](https://git.io/typing-svg)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h3 align="center">I'm a passionate computer science student and this is my page.</h3>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+There+my+name+is+Roi+Yehezkel;Second+line+of+text)](https://git.io/typing-svg)
+
  
            
 ## 🙋‍♂️ About Me
