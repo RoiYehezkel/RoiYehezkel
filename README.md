@@ -8,8 +8,10 @@
 </h1>
 <h3 align="center">I'm a passionate computer science student and this is my page.</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
- 
+<h1 align="center> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+There+my+name+is+Roi+Yehezkel;Second+line+of+text)](https://git.io/typing-svg)
+ </h1>
+           
 ## 🙋‍♂️ About Me
  
 - 🎓 I’m currently 2nd year Computer Science student.
