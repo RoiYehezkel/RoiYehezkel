@@ -4,7 +4,7 @@
 
 <h1 align="center">
   Hey there my name is Roi Yehezkel
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="10px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
 
 <h3 align="center">I'm a passionate computer science student and this is my page.</h3>
