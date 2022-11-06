@@ -49,3 +49,5 @@
 <a href = "https://www.linkedin.com/in/roi-yehezkel-b97056231/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif) 
+
