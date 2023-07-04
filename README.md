@@ -11,7 +11,7 @@
            
 ## 🙋‍♂️ About Me
  
-- 🎓 I’m currently 3rd year Computer Science student.
+- 🎓 Software Developer, looking for Full Stack Developer position.
  
 - 💪 Ambitious, self-motivated, hardworking person and a great team player.
  
