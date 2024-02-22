@@ -7,11 +7,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
 
-<h3 align="center">I'm a passionate Full Stack Developer.</h3>
+<h3 align="center">I'm a passionate Backend Developer.</h3>
            
 ## 🙋‍♂️ About Me
  
-- 🎓 Software Developer, looking for Full Stack Developer position.
+- 🎓 Software Developer, looking for Backend Developer position.
  
 - 💪 Ambitious, self-motivated, hardworking person and a great team player.
  
